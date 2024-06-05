@@ -1,0 +1,1 @@
+F:\mobileTH\LAB6\OpenCV_FaceDetect\openCV\build\intermediates\cxx\Debug\m4f52d40\obj\x86_64

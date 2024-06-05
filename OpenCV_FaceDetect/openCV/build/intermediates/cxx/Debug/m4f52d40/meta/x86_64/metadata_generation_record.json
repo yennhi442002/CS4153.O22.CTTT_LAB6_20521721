@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: x86_64",
+    "file_": "F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1920575713
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\.cxx\\Debug\\m4f52d40\\x86_64\\android_gradle_build.json due to:",
+    "file_": "F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1506745538
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\.cxx\\Debug\\m4f52d40\\x86_64\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1831210944
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\.cxx\\Debug\\m4f52d40\\x86_64\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 189366206
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1121764877
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\.cxx\\Debug\\m4f52d40\\x86_64\u0027",
+    "file_": "F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1872138116
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\.cxx\\Debug\\m4f52d40\\x86_64\u0027",
+    "file_": "F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1385677040
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HF:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d24\n-DANDROID_PLATFORM\u003dandroid-24\n-DANDROID_ABI\u003dx86_64\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DANDROID_NDK\u003dC:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dF:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\build\\intermediates\\cxx\\Debug\\m4f52d40\\obj\\x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dF:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\build\\intermediates\\cxx\\Debug\\m4f52d40\\obj\\x86_64\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BF:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\.cxx\\Debug\\m4f52d40\\x86_64\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2073096528
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : C:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HF:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\libcxx_helper\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d24\n-DANDROID_PLATFORM\u003dandroid-24\n-DANDROID_ABI\u003dx86_64\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DANDROID_NDK\u003dC:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\ASUS\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dF:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\build\\intermediates\\cxx\\Debug\\m4f52d40\\obj\\x86_64\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dF:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\build\\intermediates\\cxx\\Debug\\m4f52d40\\obj\\x86_64\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BF:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\.cxx\\Debug\\m4f52d40\\x86_64\n-GNinja\n-DANDROID_STL\u003dc++_shared\njvmArgs : \n\n",
+    "file_": "F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1642339857
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\.cxx\\Debug\\m4f52d40\\x86_64\\compile_commands.json.bin normally",
+    "file_": "F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -518096986
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 809418626
+  },
+  {
+    "level_": 0,
+    "message_": "write command file F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\.cxx\\Debug\\m4f52d40\\x86_64\\metadata_generation_command.txt",
+    "file_": "F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1879912268
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "F:\\mobileTH\\LAB6\\OpenCV_FaceDetect\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|x86_64",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1547475586
+  }
+]

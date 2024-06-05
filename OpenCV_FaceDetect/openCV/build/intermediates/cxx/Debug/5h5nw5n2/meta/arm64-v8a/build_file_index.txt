@@ -1,0 +1,1 @@
+C:\Users\hungk\Downloads\Compressed\homeworkmoible-main\homeworkmoible-main\LAB6\OpenCV_FaceDetect\openCV\libcxx_helper\CMakeLists.txt
